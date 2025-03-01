@@ -1,0 +1,8 @@
+config.txt
+db_school_bot_2.db
+.idea
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
